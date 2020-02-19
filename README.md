@@ -1,1 +1,1 @@
-# JuliaWardHowe
+# Julia Ward Howe connections
